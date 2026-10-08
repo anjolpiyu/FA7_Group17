@@ -50,7 +50,7 @@ The most frequently reported sleep duration was 4 hours, which occurred 16 times
 
 #### Mean and Standard Deviation
 
-The calculated mean sleep duration was approximately 5.1552 hours, or about 5.16 hours. The sample standard deviation was approximately 1.6942 hours, or about 1.69 hours.
+The calculated mean sleep duration was approximately 5.1552 hours, or about 5.16 hours. The sample standard deviation was approximately 1.753 hours, or about 1.75 hours.
 
 The mean represents the average reported sleep duration of the 58 observations, while the standard deviation describes how spread out the sleep durations are around the mean.
 
@@ -60,11 +60,11 @@ A Normal Distribution was fitted using the observed mean and standard deviation.
 
 The observed data were compared with the theoretical percentages expected within one, two, and three standard deviations of the mean.
 
-Within one standard deviation, the interval was approximately 3.46 to 6.85 hours. A total of 36 out of 58 observations, or approximately 62.07%, fell within this range. In comparison, a theoretical Normal Distribution would have approximately 68.27% of observations within one standard deviation.
+Within one standard deviation, the interval was approximately 3.40 to 6.91 hours. A total of 36 out of 58 observations, or approximately 62.07%, fell within this range. In comparison, a theoretical Normal Distribution would have approximately 68.27% of observations within one standard deviation.
 
-Within two standard deviations, the interval was approximately 1.77 to 8.54 hours. A total of 57 out of 58 observations, or approximately 98.28%, fell within this range. The theoretical percentage for a Normal Distribution is approximately 95.45%.
+Within two standard deviations, the interval was approximately 1.65 to 8.66 hours. A total of 57 out of 58 observations, or approximately 98.28%, fell within this range. The theoretical percentage for a Normal Distribution is approximately 95.45%.
 
-Within three standard deviations, the interval was approximately 0.07 to 10.24 hours. All 58 observations, or 100%, fell within this range. The theoretical percentage for a Normal Distribution is approximately 99.73%.
+Within three standard deviations, the interval was approximately 0 to 10.41 hours. All 58 observations, or 100%, fell within this range. The theoretical percentage for a Normal Distribution is approximately 99.73%.
 
 The observed percentages are not exactly the same as the theoretical 68–95–99.7 rule because the dataset contains only 58 observations and the reported sleep durations are whole-number values. However, the majority of observations are concentrated within two standard deviations of the mean.
 
@@ -73,12 +73,6 @@ The observed percentages are not exactly the same as the theoretical 68–95–9
 The sleep-duration data are concentrated around the middle of the distribution, particularly between 4 and 6 hours. The distribution shows a slight right skew rather than being perfectly symmetrical. The calculated skewness was approximately 0.21, indicating only a mild positive skew.
 
 Although the data do not perfectly follow a Normal Distribution, the Normal Distribution provides a useful model for describing the general pattern and spread of the observations.
-
-#### Outliers
-
-The data were examined using the interquartile range method. The first quartile was 4 hours and the third quartile was 6 hours, giving an interquartile range of 2 hours. Using the standard 1.5 IQR rule, the lower and upper fences were 1 hour and 9 hours, respectively.
-
-All observed values fell within these fences, meaning that there were no observations identified as outliers using the standard IQR method.
 
 #### Usefulness of the Normal Distribution
 
